@@ -24,7 +24,7 @@ A `BitString` can be defined from:
 
 ### Byte Array
 ```
-let test_string = BitString::from_byte_array([0x30_u8, 0x31_u8, 0x32_u8, 0x33_u8, 0x34_u8, 0x35_u8, 0x36_u8, 0x37_u8, 0x38_u8, 0x39_u8], 8 * 10);
+let test_string = BitString::from_byte_array([0x30_u8, 0x31_u8, 0x32_u8, 0x33_u8, 0x34_u8, 0x35_u8, 0x36_u8, 0x37_u8, 0x38_u8, 0x39_u8]);
 ```
 
 ### String of ASCII characters

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "fips202"
+name = "rust-keccak"
 version = "0.1.0"
