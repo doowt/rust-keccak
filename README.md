@@ -34,7 +34,7 @@ let test_string = BitString::from_string("0123456789");
 
 ### Bit String
 ```
-let test_string = BitString::from_bitstring(vec![0x3736353433323130_u64, 3839_u64], 80);
+let test_string = BitString::from_bitstring(vec![0x3736353433323130_u64, 3938_u64], 80);
 ```
 Observe that the first byte of the input (`30_u8`) is stored in the
 least significant byte of the 64-bit word.
